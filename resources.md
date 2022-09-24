@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Campaign Resources
+permalink: /resources/
 ---
 
 Some information about you!
