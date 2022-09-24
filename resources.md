@@ -29,4 +29,4 @@ Here is the bare minimum of what you'll need to create a new character:
 > Roll 4d6, sum the top 3 rolls and record the number. Do this 6 times, writing the ‘attribute array’ down. Now roll a second set. Choose the first or second set of 6 numbers. I recommend keeping either the set with the greatest total modifier (the largest sum across all numbers) or the set with the greatest single score (e.g. if you roll a set with an 18). These 6 numbers are your starting attribute scores, you can assign any of the numbers to any attribute in your character sheet.
 
 ### Story Setting
-
+This mini-campaign takes place in the Nelluon Triangle region east of the Isles of Meropis region in the world of Alfheimr. The history of this world is vast, with many implications from previous campaigns played in this world. For details about historical timelines, major world events, and current politcal conditions, refer to this [campaign primer written by Matt Hale](https://github.com/chrysalise/dnd-mini-campaign/blob/f1bf417fdf284e90607bf56ead8f71177d873497/dnd-uno-primer-campaign.pdf)
