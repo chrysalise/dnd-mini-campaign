@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-permalink: /home/
+permalink: /index/
 ---
 
 # This is a markdown file
