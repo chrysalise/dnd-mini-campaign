@@ -21,7 +21,8 @@ Similarly, as a player, I consider these your responsibilities:
 ### Creating a Character
 Here is the bare minimum of what you'll need to create a new character:
 - Head to our [DnD Beyond campaign link](https://ddb.ac/campaigns/join/2409669417393835) to join it and create a new character. Do not worry about fleshing all the details out now. Just create a shell. You can edit it later. 
-- Work out a character backstory. Refer to the [Story setup](#story-setup) section of this page to understand the context that your characters are starting in, the relationships between characters, other structures forces at work, and the overall mood or theme of the campaign. 
+- Work out a character backstory. Refer to the [Story Setting](#story-setting) section of this page to understand the context that your characters are starting in, the relationships between characters, other structures forces at work, and the overall mood or theme of the campaign. Use these details to develop some ideas for interesting motivations that your character might have, some details about your character that fit will within this setting, and potential links with other entities or events mentioned. These details do not need to be fully coherent or set in stone. Consult with me about these ideas you have so that we may collaboratively work out how to create a compelling character that fits within the general story that I have planned for this mini-campaign.
+- 
 
-### Story Setup
+### Story Setting
 
