@@ -52,5 +52,7 @@ Years pass, and what was once a promising area for exploration and plundering ha
 
 Until now. 
 
+### Necro-Magitech: A growing field in spite of ethical concerns
+
 Recent discoveries by the Department of Applied Magitech, a recently-formed quasi-military research unit sponsored by the Valance government, have revealed some startling discoveries about the region. Advances in Necro-magitech, a sub-discipline of the field that focuses on "leveraging magitech for use in undead beings in the service of national security and peace" have led to the development of Synthetically-Enhanced Undead Infantry and Tactical Subordinates (SUITS) that can serve as surveyors into hostile environments, test subjects in dangerous experiments, and last but not least, military troops with specialized abilities (see image below for exampke): 
-![image](https://raw.githubusercontent.com/chrysalise/dnd-mini-campaign/master/images/zombie_robot.jpg)
+![image](https://raw.githubusercontent.com/chrysalise/dnd-mini-campaign/master/images/zombie_robot.jpg | width=200)
